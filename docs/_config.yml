@@ -17,18 +17,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-description: Bookmark this to keep an eye on my project updates!
-
 
 title: Matt Freeland's homepage
-email: matt.freeland@proton.me
+email: freeland@hey.com
 description: >- # this means to ignore newlines until "baseurl:"
   Stories of a husband, traveler, reader, software engineer & digital minimalist.
   Come tag along!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: freelxnd
+github_username:  freelandm
 
 # Build settings
 theme: minima
