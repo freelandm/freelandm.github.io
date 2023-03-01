@@ -23,10 +23,8 @@ description: Bookmark this to keep an eye on my project updates!
 title: Matt Freeland's homepage
 email: matt.freeland@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi & welcome to my corner of the internet! I'm a husband, software developer,
-  music lover, reader, digital minimalist & passionate about physical,
-  emotional and cognitive health. I'll talk about some things that interest
-  me here as well as share info about whatever projects I'm working on!
+  Stories of a husband, traveler, reader, software engineer & digital minimalist.
+  Come tag along!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
