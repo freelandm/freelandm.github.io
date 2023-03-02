@@ -2,7 +2,7 @@
 layout: post
 title:  "Could it be better...?"
 date:   2023-03-01 18:21:09 -0600
-categories: philosophy, self-awareness
+categories: self-awareness
 ---
 I often regurgitate cliche phrases and statements without thinking too deeply about their underlying meaning. One example of this, which I’d like to discuss today, is the phrase “It could be worse” (fyi, I’ve got a ton of examples which I’ll talk about later). Oftentimes, I’ll throw this statement around lightly; for example,
 
