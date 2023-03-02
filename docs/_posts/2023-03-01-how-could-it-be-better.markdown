@@ -10,7 +10,7 @@ I often regurgitate cliche phrases and statements without thinking too deeply ab
 - “Well, it was okay, I had to do X, Y & Z”
 - “Well, it could be worse!”
 
-Sure, it probably could be worse. There’s tons of things in life which are worse than some of the struggles I might have to deal with on a daily basis. I have a friend who recently went down to Ft. Myers/Sanibel Island in Florida, a region which is still suffering tremendously as a result of hurricane Ian in September 2022. There’s earthquakes with claiming the lives of 10s of thousands of people in Turkey & Syria, fires in the south of Chile, and a whole collection of suffering that exists at a global level that it’s very easy for me to say “well, it could be worse!”.
+Sure, it probably could be worse. There’s tons of things in life which are worse than some of the struggles I might have to deal with on a daily basis. I have a friend who recently went down to Ft. Myers/Sanibel Island in Florida, a region which is still suffering tremendously as a result of hurricane Ian in September 2022. A series of earthquakes claimed the lives of 10s of thousands of people in Turkey & Syria, theres fires in the south of Chile destroying thousands of homes, and a whole collection of suffering that exists at a global level that it’s very easy for me to say “well, it could be worse!”.
 
 The other day, while I was walk-thinking, I had a realization about this phrase: it’s such an awful way to think. By thinking in this way, I essentially close myself off from the myriad of possibilities that life could unfold into. Is this what it’s like to stop dreaming?
 
