@@ -6,7 +6,7 @@ categories: self-awareness
 ---
 There’s a very interesting concept that most of us are psychologically burdened by: FOMO, or the Fear Of Missing Out. Everybody’s going to be there and do that, how could I miss it! 
 
-I recently read [“Digital Minimalism” by Cal Newport](https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy/dp/0525536515/). I highly recommend it if you haven’t read it. In the second chapter, Cal describes how he is approached by others in his professional circle regarding the fact that he doesn’t use Facebook. When he is  asked, “Why do I need to use Facebook?”, he’s often met with the response “I can’t tell you exactly, but what is there’s something useful to you in there that you’re missing?”.
+I recently read [“Digital Minimalism” by Cal Newport](https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy/dp/0525536515/). I highly recommend it if you haven’t read it. In the second chapter, Cal describes how he is approached by others in his professional circle regarding the fact that he doesn’t use Facebook. When he asks, “Why do I need to use Facebook?”, he’s often met with the response “I can’t tell you exactly, but what is there’s something useful to you in there that you’re missing?”.
 
 Jason Fried (37 Signals) describes a similar way of thinking but from a slightly different perspective: [JOMO](https://37signals.com/29), or the Joy Of Missing Out. The idea here is to embrace the extra time you have by not constantly feeling the need to be involved in everything that happens and always be “in the know”. 
 
