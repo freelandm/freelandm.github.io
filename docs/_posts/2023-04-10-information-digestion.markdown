@@ -3,7 +3,7 @@ layout: post
 title:  "information digestion"
 date:   2023-04-10 07:24:36 -0500
 categories: self-awareness
---
+---
 Sit with your thoughts and really internalize the information that you consume, it makes the world of a difference.
 
 In the modern age, we’re constantly bombarded with stimuli; feeds from the news, netflix, twitter, facebook, instagram, tiktok, and notifications from all of these. This instills a lot of fear for humanity in me. While we live in our phones and have no problem expressing our thoughts and emotions via social media posts, it makes us uncomfortable to go knock on our neighbors door and ask for help or simply say 'hi' when we cross paths. We have a constant anxiety tapping us on the shoulder (or the "Monkey mind" as Naval would say).
