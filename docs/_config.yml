@@ -29,7 +29,7 @@ twitter_username: freelxnd
 github_username:  freelandm
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
